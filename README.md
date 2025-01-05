@@ -3,5 +3,5 @@
 </div>
 <p>Kia ora!</p>
 <p>My name is Palin Wiseman and I recently graduated from Otago Polytechnic in Dunedin, New Zealand with a Bachelor of Information Technology in the Game Development pathway. After graduating I moved to Christchurch and am looking for a job either here or remotely. I am queer and non-binary, and my pronouns are they/them.</p>
-<p>I am passionate about gaming and want to work as a developer in the game dev industry. I have 2 years of experience working with Unity and C# and have worked with Unreal Engine 5, JavaScript, and Python.</p>
+<p>I am passionate about gaming and want to work as a developer in the game dev industry. I have 2 years of experience working with Unity and C# and have worked with Unreal Engine 5, Godot, JavaScript, and Python.</p>
 <p>My current side project is a Raspberry Pi controlled display for Formula 1 lap times that can open driver POV windows.</p>
